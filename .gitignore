@@ -2,3 +2,4 @@ config.py
 __pycache__
 testdata/*
 fetchers/__pycache__/
+glslr.db
