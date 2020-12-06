@@ -1,0 +1,33 @@
+id,name,provider,waterbody,cd
+10050,Thunder Bay,CHS,Lake Superior,183.2
+10750,Michipicoten,CHS,Lake Superior,183.2
+9099064,Duluth,NOAA,Lake Superior,183.2
+9099018,Marquette,NOAA,Lake Superior,183.2
+9099004,Pt. Iroquois,NOAA,Lake Superior,183.2
+11070,Thessalon,CHS,Lake Michigan-Huron,176.0
+11690,Tobermory,CHS,Lake Michigan-Huron,176.0
+9075014,Harbor Beach,NOAA,Lake Michigan-Huron,176.0
+9087023,Ludington,NOAA,Lake Michigan-Huron,176.0
+9087057,Milwaukee,NOAA,Lake Michigan-Huron,176.0
+9075080,Mackinaw City,NOAA,Lake Michigan-Huron,176.0
+12865,Pt. Colborne,CHS,Lake Erie,173.5
+12710,Pt. Dover,CHS,Lake Erie,173.5
+12400,Pt. Stanley,CHS,Lake Erie,173.5
+12250,Erieau,CHS,Lake Erie,173.5
+12065,Kingsville,CHS,Lake Erie,173.5
+9063020,Buffalo,NOAA,Lake Erie,173.5
+9063038,Erie,NOAA,Lake Erie,173.5
+9063063,Cleveland,NOAA,Lake Erie,173.5
+9063079,Marblehead,NOAA,Lake Erie,173.5
+9063085,Toledo,NOAA,Lake Erie,173.5
+13030,Pt. Weller,CHS,Lake Ontario,74.2
+13320,Toronto,CHS,Lake Ontario,74.2
+13590,Cobourg,CHS,Lake Ontario,74.2
+13988,Kingston,CHS,Lake Ontario,74.2
+9052030,Oswego,NOAA,Lake Ontario,74.2
+9052058,Rochester,NOAA,Lake Ontario,74.2
+8311030,Ogdensburg,NOAA,St. Lawrence River,73.88
+14400,Brockville,CHS,St. Lawrence River,73.95
+15520,Montreal,CHS,St. Lawrence River,5.55
+15930,Sorel,CHS,St. Lawrence River,3.775
+15975,Lake St. Pierre,CHS,St. Lawrence River,3.39
