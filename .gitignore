@@ -3,3 +3,4 @@ __pycache__
 testdata/*
 fetchers/__pycache__/
 glslr.db
+log.log
