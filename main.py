@@ -17,9 +17,10 @@ from fetchers import noaa
 
 
 path = Path(__file__).parent.resolve()
-LOG_PATH = path / 'glslr-db.log'
-DB_PATH = path / 'glslr-db.db'
 
+LOG_PATH = path / 'log.log'
+DB_PATH = path / 'glslr.db'
+STATIONS_PATH = path / 'stations.csv'
 
 def logger_setup():
     """
@@ -247,7 +248,7 @@ if __name__ == '__main__':
 
     # add station info if doesn't exist, also builds db if doesn't exist
     if table_exists(con, 'stations') is False:
-        stations = stns_info_to_db('stations.csv')
+        stations = stns_info_to_db(STATIONS_PATH)
     else:
         stations = get_datatable(con, 'stations') 
     
