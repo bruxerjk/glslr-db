@@ -1,3 +1,3 @@
 # glslr-db
 
-Simple script to fetch water level data from Great Lakes - St. Lawrence River station and store in sqlite3 database
+Fetches water level data from Great Lakes - St. Lawrence River stations and stores in sqlite3 database
